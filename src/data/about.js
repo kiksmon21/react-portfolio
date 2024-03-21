@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'laguatan.krystianmon@outlook.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639626014334',
   },
   {
     id: 3,
-    description: 'City',
-    value: 'Baguio City',
+    description: 'Location',
+    value: 'Iba, Zambales',
   },
 ];
 
@@ -31,7 +31,7 @@ export const aboutList2 = [
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Basketball, Computer Games, Hiking',
+    value: 'Computer and Console Games, Hiking',
   },
   {
     id: 3,
@@ -43,21 +43,21 @@ export const aboutList2 = [
 export const aboutList3 = [
   {
     id: 1,
-    school: 'Hogwarts University',
+    school: 'Sta. Barbara Elementary School',
     year: '2006',
-    course: 'Elementary',
+    course: 'Primary',
   },
   {
     id: 2,
-    school: 'Hogwarts University',
+    school: 'Zambales National High School',
     year: '2012',
-    course: 'Senior High School',
+    course: 'Secondary',
   },
   {
     id: 3,
-    school: 'Hogwarts University',
+    school: 'Micro Asia College of Science and Technology',
     year: '2016',
-    course: 'Bachelor of Science in Computer Science',
+    course: 'Bachelor of Science in Computer Engineering',
   },
 ];
 export const aboutList4 = [
